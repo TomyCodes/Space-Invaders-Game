@@ -19,7 +19,8 @@ import random
 ```
 ## Game components
 ### Menu screen
-![Menu]()
+![Menu](/Gifs/Menu_Screen.png)
+
 
 ## Credits
 Tomy Li He
