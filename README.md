@@ -21,6 +21,11 @@ import random
 ### Menu screen
 ![Menu](/Gifs/Menu_Screen.png)
 
+### Gameplay 
+![Gameplay](/Gifs/gameplay.gif)
+
+### Lose screen when you lose all your health or all your lives when enemies get past you
+![Lose Screen](/Gifs/Lose_screen.png)
 
 ## Credits
 Tomy Li He
